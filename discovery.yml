@@ -1,5 +1,5 @@
 
-# Eureka server
+# Eureka server as service discuovery
 eureka:
   datacenter: Test Data Center
   environment: development
